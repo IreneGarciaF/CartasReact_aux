@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/IreneGarciaF/ReactCards/static/css/main.9e311d9c.css",
-    "main.js": "/IreneGarciaF/ReactCards/static/js/main.a385a41a.js",
-    "static/js/453.331ffa9c.chunk.js": "/IreneGarciaF/ReactCards/static/js/453.331ffa9c.chunk.js",
-    "static/media/image2.jpg": "/IreneGarciaF/ReactCards/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
-    "static/media/image3.jpg": "/IreneGarciaF/ReactCards/static/media/image3.de2e4145d934e647f47d.jpg",
-    "index.html": "/IreneGarciaF/ReactCards/index.html",
-    "main.9e311d9c.css.map": "/IreneGarciaF/ReactCards/static/css/main.9e311d9c.css.map",
-    "main.a385a41a.js.map": "/IreneGarciaF/ReactCards/static/js/main.a385a41a.js.map",
-    "453.331ffa9c.chunk.js.map": "/IreneGarciaF/ReactCards/static/js/453.331ffa9c.chunk.js.map"
+    "main.css": "/CartasReact_aux/static/css/main.9e311d9c.css",
+    "main.js": "/CartasReact_aux/static/js/main.819202fc.js",
+    "static/js/453.331ffa9c.chunk.js": "/CartasReact_aux/static/js/453.331ffa9c.chunk.js",
+    "static/media/image2.jpg": "/CartasReact_aux/static/media/image2.f57e37a5b9faa9d51e1c.jpg",
+    "static/media/image3.jpg": "/CartasReact_aux/static/media/image3.de2e4145d934e647f47d.jpg",
+    "index.html": "/CartasReact_aux/index.html",
+    "main.9e311d9c.css.map": "/CartasReact_aux/static/css/main.9e311d9c.css.map",
+    "main.819202fc.js.map": "/CartasReact_aux/static/js/main.819202fc.js.map",
+    "453.331ffa9c.chunk.js.map": "/CartasReact_aux/static/js/453.331ffa9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e311d9c.css",
-    "static/js/main.a385a41a.js"
+    "static/js/main.819202fc.js"
   ]
 }
